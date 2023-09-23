@@ -1,15 +1,11 @@
 # 🧮 Atividade de testes automatizados
 
-## Instalação e execução
-
-Processo de build
+## Build e execução dos testes unitários
 
 ```
 mvn package
 ```
 
-Compilação e testes
+## Exemplos de testes implementados
 
-```
-java -cp target/calculadora-1.0-SNAPSHOT.jar com.calculadora.app.App
-```
+<img src="" alt="Códigos de exemplo" />
