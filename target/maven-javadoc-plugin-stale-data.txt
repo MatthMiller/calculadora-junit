@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/mathe/Desktop/programming/facens/facens-2023-2/calculadora-junit/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/mathe/Desktop/programming/facens/facens-2023-2/calculadora-junit/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculadora 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/mathe/Desktop/programming/facens/facens-2023-2/calculadora-junit/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'calculadora 1.0-SNAPSHOT API'
+com.calculadora.app
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\src\main\java = 1700241747484
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\allclasses-index.html = 1700243400910
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\allpackages-index.html = 1700243400916
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\copy.svg = 1700243400972
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\element-list = 1700243400814
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\help-doc.html = 1700243400960
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\index-all.html = 1700243400947
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\index.html = 1700243400951
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\jquery-ui.overrides.css = 1700243401035
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\member-search-index.js = 1700243400927
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\module-search-index.js = 1700243400919
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\overview-tree.html = 1700243400885
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\package-search-index.js = 1700243400921
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\script.js = 1700243400969
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\search.js = 1700243400977
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\stylesheet.css = 1700243400965
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\tag-search-index.js = 1700243400929
+C:\Users\mathe\Desktop\programming\facens\facens-2023-2\calculadora-junit\target\site\apidocs\type-search-index.js = 1700243400924

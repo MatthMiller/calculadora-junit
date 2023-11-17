@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.calculadora.app","l":"App"},{"p":"com.calculadora.app","l":"Calculadora"}];updateSearchResults();
